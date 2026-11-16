@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ghostline-kimodo-motion"
+version = "0.1.0"
+description = "Independent PyTorch Kimodo generation and portable motion packages"
+requires-python = ">=3.12"
+dependencies = ["numpy>=1.26"]
+
+[project.scripts]
+ghostline-kimodo = "kimodo_motion:main"
+
+[tool.setuptools]
+py-modules = ["kimodo_motion", "runtime_bootstrap"]

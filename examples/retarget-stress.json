@@ -1,0 +1,8 @@
+[
+ {"id":"overhead-reach","prompt":"A person stands upright and slowly raises both arms overhead, reaches upward, then lowers both arms to their sides.","seconds":6,"seed":101},
+ {"id":"crossed-arms","prompt":"A person stands with relaxed shoulders, crosses both arms over their chest, holds briefly, then uncrosses their arms.","seconds":6,"seed":102},
+ {"id":"deep-crouch","prompt":"A person slowly lowers into a deep crouch, balances with both arms forward, then stands upright again.","seconds":6,"seed":103},
+ {"id":"turn-and-look","prompt":"A person turns their torso and head to look behind their left shoulder, returns to the front, then looks behind their right shoulder.","seconds":6,"seed":104},
+ {"id":"walk-and-turn","prompt":"A person walks forward for several steps, turns around, and walks back toward their starting point.","seconds":6,"seed":105},
+ {"id":"left-hand-wave","prompt":"A person stands and waves hello with their left hand, showing an open palm with naturally extended fingers.","seconds":5,"seed":106}
+]
